@@ -1,0 +1,6 @@
+node_modules/
+dist/
+*.tsbuildinfo
+vite.out.log
+vite.err.log
+crew-*.png
