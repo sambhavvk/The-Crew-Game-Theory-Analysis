@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "portfolio-c1ae4"
+  },
+  "targets": {
+    "portfolio-c1ae4": {
+      "hosting": {
+        "crew": [
+          "crew-strategy-lab-svk"
+        ]
+      }
+    }
+  }
+}
